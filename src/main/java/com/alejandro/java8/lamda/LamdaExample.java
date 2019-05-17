@@ -1,4 +1,4 @@
-package com.alejandro.java8;
+package com.alejandro.java8.lamda;
 
 import java.util.ArrayList;
 import java.util.Collections;

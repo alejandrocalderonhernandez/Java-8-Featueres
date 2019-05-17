@@ -1,7 +1,7 @@
-package com.alejandro.java8;
+package com.alejandro.java8.lamda;
 
 @FunctionalInterface
-public interface Operation {
+public interface OperationI {
 	
 	double calculate(double a, double b);
 

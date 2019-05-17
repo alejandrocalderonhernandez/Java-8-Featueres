@@ -1,0 +1,38 @@
+2019-05-17 13:36:05 INFO  MeRefApp:13 - Method static
+2019-05-17 13:36:05 INFO  MeRefApp:13 - Method static
+2019-05-17 13:41:12 INFO  MeRefApp:13 - Method static
+2019-05-17 13:41:12 INFO  MeRefApp:13 - Method static
+2019-05-17 13:46:03 INFO  MeRefApp:13 - Method static
+2019-05-17 13:46:03 INFO  MeRefApp:13 - Method static
+2019-05-17 13:46:03 INFO  MeRefApp:31 - [Ferrari, Lamborghini, Porsche]
+2019-05-17 13:46:03 INFO  MeRefApp:35 - Method referenced in instance of class
+2019-05-17 14:03:10 INFO  MeRefApp:13 - Method static
+2019-05-17 14:03:10 INFO  MeRefApp:13 - Method static
+2019-05-17 14:03:10 INFO  MeRefApp:31 - [Ferrari, Lamborghini, Porsche]
+2019-05-17 14:03:10 INFO  MeRefApp:35 - Method referenced in instance of object
+2019-05-17 14:03:10 INFO  MeRefApp:42 - com.alejandro.java8.referencestomethods.MeRefApp$$Lambda$45/2097905212@15bb5034
+2019-05-17 14:03:14 INFO  MeRefApp:13 - Method static
+2019-05-17 14:03:14 INFO  MeRefApp:13 - Method static
+2019-05-17 14:03:14 INFO  MeRefApp:31 - [Ferrari, Lamborghini, Porsche]
+2019-05-17 14:03:14 INFO  MeRefApp:35 - Method referenced in instance of object
+2019-05-17 14:03:14 INFO  MeRefApp:42 - com.alejandro.java8.referencestomethods.MeRefApp$$Lambda$35/84739718@7a3d45bd
+2019-05-17 14:03:33 INFO  MeRefApp:13 - Method static
+2019-05-17 14:03:33 INFO  MeRefApp:13 - Method static
+2019-05-17 14:03:33 INFO  MeRefApp:31 - [Ferrari, Lamborghini, Porsche]
+2019-05-17 14:03:33 INFO  MeRefApp:35 - Method referenced in instance of object
+2019-05-17 14:03:33 INFO  MeRefApp:42 - com.alejandro.java8.referencestomethods.MeRefApp$$Lambda$45/2097905212@15bb5034
+2019-05-17 14:03:46 INFO  MeRefApp:13 - Method static
+2019-05-17 14:03:46 INFO  MeRefApp:13 - Method static
+2019-05-17 14:03:46 INFO  MeRefApp:31 - [Ferrari, Lamborghini, Porsche]
+2019-05-17 14:03:46 INFO  MeRefApp:35 - Method referenced in instance of object
+2019-05-17 14:03:46 INFO  MeRefApp:42 - com.alejandro.java8.referencestomethods.MeRefApp$$Lambda$45/2097905212@15bb5034
+2019-05-17 14:05:08 INFO  MeRefApp:13 - Method static
+2019-05-17 14:05:08 INFO  MeRefApp:13 - Method static
+2019-05-17 14:05:08 INFO  MeRefApp:31 - [Ferrari, Lamborghini, Porsche]
+2019-05-17 14:05:08 INFO  MeRefApp:35 - Method referenced in instance of object
+2019-05-17 14:05:08 INFO  MeRefApp:42 - ObjectExample [id=1, properties=all]
+2019-05-17 14:08:53 INFO  MeRefApp:13 - Method static
+2019-05-17 14:08:53 INFO  MeRefApp:13 - Method static
+2019-05-17 14:08:53 INFO  MeRefApp:31 - [Ferrari, Lamborghini, Porsche]
+2019-05-17 14:08:53 INFO  MeRefApp:35 - Method referenced in instance of object
+2019-05-17 14:08:53 INFO  MeRefApp:47 - ObjectExample [id=1, properties=all]
