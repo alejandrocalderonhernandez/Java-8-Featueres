@@ -1,7 +1,6 @@
 package com.alejandro.java8.referencestomethods;
 
 import java.util.Arrays;
-import java.util.Comparator;
 
 import org.apache.log4j.Logger;
 
@@ -14,7 +13,7 @@ public class MeRefApp {
 	}
 	
 	public void referenceMethodInstanceObjectArbitrary() {
-		String[] brands = {"Lamborghini", "Ferrari", "Porsche"};
+		String[] brands = {"Porsche", "Lamborghini", "Ferrari",};
 		
 //		without lamda
 //		Arrays.sort(brands, new Comparator<String>() {
