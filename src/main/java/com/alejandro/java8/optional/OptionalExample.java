@@ -26,9 +26,4 @@ public class OptionalExample {
 		Optional<String> op = Optional.ofNullable(string);
 		LOG.info(op.isPresent());
 	}
-
-	public static void main(String[] args) {
-       isPrecent("Alejandro");
-	}
-
 }

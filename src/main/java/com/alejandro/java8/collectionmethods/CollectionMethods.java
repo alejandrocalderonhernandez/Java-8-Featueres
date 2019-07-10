@@ -1,13 +1,12 @@
 package com.alejandro.java8.collectionmethods;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import org.apache.log4j.Logger;
 
-public class Main {
+public class CollectionMethods {
 	
-	static final  Logger LOGGER = Logger.getLogger(Main.class);
+	static final  Logger LOGGER = Logger.getLogger(CollectionMethods.class);
 	
 	public static void useForEach(final List<String> list){
 		list.forEach(LOGGER::info);
@@ -20,16 +19,4 @@ public class Main {
 	public static void useSort(final List<String> list){
 		list.sort((s1,s2) -> s1.compareTo(s2));
 	}
-	
-	public static void main(String[] args) {
-		List<String> languages = new ArrayList<>();
-		languages.add("Java");
-		languages.add("Typescript");
-		languages.add("Python");
-		
-		Main.useRemoveIf(languages);
-		Main.useSort(languages);
-		Main.useForEach(languages);
-	}
-
 }

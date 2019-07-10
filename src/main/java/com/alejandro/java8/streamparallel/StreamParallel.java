@@ -2,7 +2,6 @@ package com.alejandro.java8.streamparallel;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Stream;
 
 import org.apache.log4j.Logger;
 
@@ -25,12 +24,4 @@ public class StreamParallel {
 	public void testStreamParalell() {
 		numbers.parallelStream().forEach(LOG::info);
 	}
-
-	public static void main(String[] args) {
-		StreamParallel streamParallel = new StreamParallel();
-		streamParallel.refillList();
-		streamParallel.testStream();
-		streamParallel.testStreamParalell();
-	}
-
 }

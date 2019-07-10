@@ -41,11 +41,4 @@ public class StreamApp {
 	public Long count() {
 		return this.colors.stream().count();
 	}
-	
-	public static void main(String[] args) {
-		StreamApp app = new StreamApp();
-		List<String>test = app.filter();
-		test.forEach(System.out::print);
-	}
-
 }

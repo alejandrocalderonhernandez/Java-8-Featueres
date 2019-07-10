@@ -44,9 +44,4 @@ public class MapJava8 {
 	public void getDEfault() {
 		map.getOrDefault(5, "Default value");
 	}
-
-	public static void main(String[] args) {
-		
-	}
-
 }
